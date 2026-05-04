@@ -168,3 +168,5 @@ Suggested test flow:
 ## Release Process
 
 See `RELEASE_CHECKLIST.md` for a complete pre-release and publishing checklist.
+
+"This project was developed Collaboratively"
